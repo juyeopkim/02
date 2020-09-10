@@ -5,10 +5,9 @@
 
 int main(int argc, char *argv[]) {
 	
-	int a, b, c;
+	int a, b;
 	a = 10;
 	b = 20;
-	c = 30;
 	
 	printf("%d + %d = %d\n", a, b, a+b);
 	
